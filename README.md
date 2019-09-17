@@ -1,2 +1,9 @@
-# webpackJQuery
-webpack搭建jQuery项目
+# webpackd 多页项目学习
+```
+npm install
+
+
+npm run dev
+
+
+```
